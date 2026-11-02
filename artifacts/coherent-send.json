@@ -1,0 +1,17 @@
+{
+  "rewritten": "https://device.clearsale.com.br/p/fp2.png?aa=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F131.0.0.0+Safari%2F537.36&ab=en-US&ac=24&ad=1&ae=1080&af=1920&ag=1040&ah=1920&ai=0&aj=1&ak=1&al=1&am=0&an=0&ao=Win32&ap=Win32&aq=unknown&ar=0e0b6fba21bd1e5a57417c244133e1ab&as=8477fa729e151ba09c5b3ccd94d974bd&at=0&ay=0e0b6fba21bd1e5a57417c244133e1ab&a3=16&m1=0&mb=0&mr=8&h1=8ef3be771ff038085233bcecebd900c6&h6=2022b3ac014e7a75dd1f5e8c3aa477a9&h4=609d7a61121d577c7c06bee93c8ddc9c&l1=0&im=0&b2=1&b1=1&az=11e7c5ddcc41dd9ca62ea63847e9ca86&h7=33c990354bf5523cbd6fa839b8747d81&app=r3j6a9f10bmssayw2thp&sid=coherent-1793632962396&id=%40clear.sale%2Fbehavior-analytics-fingerprint-sdk&v=1.0.255&h=127.0.0.1",
+  "respLog": [
+    {
+      "status": 200,
+      "url": "https://device.clearsale.com.br/p/ci.png"
+    },
+    {
+      "status": 200,
+      "url": "https://device.clearsale.com.br/p/fp1.png?bb=aced1d2c044d2e368a4bea6f3"
+    },
+    {
+      "status": 200,
+      "url": "https://device.clearsale.com.br/p/fp2.png?aa=Mozilla%2F5.0+%28Windows+"
+    }
+  ]
+}
