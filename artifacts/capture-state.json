@@ -1,0 +1,17 @@
+{
+  "csdpQueue": [
+    {
+      "0": "app",
+      "1": "r3j6a9f10bmssayw2thp"
+    },
+    {
+      "0": "sessionid",
+      "1": "csl-redteam-fib9gwac"
+    }
+  ],
+  "cookies": "__udf_j=e12623535b135861c1e6f40d768340656d04aabcab44ddd4858f36ae6ebb4be7d476311950c81c75fde30ed02bfa943f; __csfpsid_3542226131=Y3NsLXJlZHRlYW0tZmliOWd3YWM=",
+  "csdpEl": true,
+  "iframes": [
+    "about:blank"
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "t": "REQ",
+    "m": "GET",
+    "u": "https://device.clearsale.com.br/p/fp.js",
+    "body": null,
+    "bodyLen": 0
+  },
+  {
+    "t": "RES",
+    "status": 200,
+    "type": "application/javascript",
+    "u": "https://device.clearsale.com.br/p/fp.js",
+    "len": 192820,
+    "head": "function a0_0x163e(_0xd0d17b,_0x39e0bf){var _0x3cfe03=a0_0x3cfe();return a0_0x163e=function(_0x163e48,_0x3253c6){_0x163e48=_0x163e48-0x1c4;var _0x5db961=_0x3cfe03[_0x163e48];return _0x5db961;},a0_0x163e(_0xd0d17b,_0x39e0bf);}(function(_0x196eb2,_0x1a6203){var _0x3774c8=a0_0x163e,_0x410d9d=_0x196eb2(",
+    "setCookie": null
+  },
+  {
+    "t": "REQ",
+    "m": "GET",
+    "u": "https://device.clearsale.com.br/p/fp.js",
+    "body": null,
+    "bodyLen": 0
+  },
+  {
+    "t": "REQ",
+    "m": "GET",
+    "u": "https://device.clearsale.com.br/p/ci.png",
+    "body": null,
+    "bodyLen": 0
+  },
+  {
+    "t": "RES",
+    "status": 200,
+    "type": "application/javascript",
+    "u": "https://device.clearsale.com.br/p/fp.js",
+    "len": 192820,
+    "head": "function a0_0x163e(_0xd0d17b,_0x39e0bf){var _0x3cfe03=a0_0x3cfe();return a0_0x163e=function(_0x163e48,_0x3253c6){_0x163e48=_0x163e48-0x1c4;var _0x5db961=_0x3cfe03[_0x163e48];return _0x5db961;},a0_0x163e(_0xd0d17b,_0x39e0bf);}(function(_0x196eb2,_0x1a6203){var _0x3774c8=a0_0x163e,_0x410d9d=_0x196eb2(",
+    "setCookie": null
+  },
+  {
+    "t": "REQ",
+    "m": "GET",
+    "u": "https://device.clearsale.com.br/p/fp2.png?aa=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ab=en-US&ac=24&ad=1&ae=900&af=1280&ag=900&ah=1280&ai=360&aj=1&ak=1&al=1&am=0&an=0&ao=unknown&ap=Linux%20x86_64&aq=unknown&ar=41b7928f85924a37c6340c17280b671a&as=9f5a952179468931c5f33d9c63e697de&at=0&ay=24700f9f1986800ab4fcc880530dd0ed&a3=12&m1=0&mb=0&mr=32&h1=c7796a4d461bb53a89ad89c280a68ac8&h6=997d578bfe7c39526994fe6568323d90&h4=8c5d31f5103dc3261c0ca2c2cf34ad78&l1=0&im=0&b2=1&b1=1&az=3275607191e9f618e33408456ff7b0fd&h7=33c990354bf5523cbd6fa839b8747d81&app=r3j6a9f10bmssayw2thp&sid=csl-redteam-fib9gwac&id=%40clear.sale%2Fbehavior-analytics-fingerprint-sdk&v=1.0.255&h=127.0.0.1",
+    "body": null,
+    "bodyLen": 0
+  },
+  {
+    "t": "REQ",
+    "m": "GET",
+    "u": "https://device.clearsale.com.br/p/fp1.png?bb=ed356d55a02a3884b92c76e6e49fa836e5a212f1d1cade013cb8f8a16550de4fe7738987ad1ccdd897e5726751fb3917&ba=e12623535b135861c1e6f40d768340656d04aabcab44ddd4858f36ae6ebb4be7d476311950c81c75fde30ed02bfa943f&a2=425de1b3d2254163b5320d5b57be831801a022ab7323469b94e719af3deeb2eeed2cace5421c47588758f68b6b2d5ba2&app=r3j6a9f10bmssayw2thp&sid=csl-redteam-fib9gwac&id=%40clear.sale%2Fbehavior-analytics-fingerprint-sdk&v=1.0.255&h=127.0.0.1&sm=true",
+    "body": null,
+    "bodyLen": 0
+  },
+  {
+    "t": "RES",
+    "status": 200,
+    "type": "image/png",
+    "u": "https://device.clearsale.com.br/p/ci.png",
+    "len": 170,
+    "head": "PNG\r\n\u001a\n\u0000\u0000\u0000\rIHDR\u0000\u0000\u0000 \u0000\u0000\u0000\u0001\b\u0002\u0000\u0000\u00000è;0\u0000\u0000\u0000\tpHYs\u0000\u0000\u000eÄ\u0000\u0000\u000eÄ\u0001+\u000e\u001b\u0000\u0000\u0000\\IDATx\u0005ÂË\u00110\f\u0005À'É¡p\u0000 ÿ\u00060c\u0011ª\tÅì-ï±ôqæÊN\u001cíI\u0011I\u000f\u0018¾ MñsµNaZäa÷¼ÿÅó¨âuXâ[k_yº\u0002±a%tÌmùE³\u0017'*ú6Ë°\\\u0000\u0000\u0000\u0000IEND®B`",
+    "setCookie": null
+  },
+  {
+    "t": "RES",
+    "status": 200,
+    "type": "image/png",
+    "u": "https://device.clearsale.com.br/p/fp1.png?bb=ed356d55a02a3884b92c76e6e49fa836e5a212f1d1cade013cb8f8a16550de4fe7738987ad1ccdd897e5726751fb3917&ba=e12623535b135861c1e6f40d768340656d04aabcab44ddd4858f36ae6ebb4be7d476311950c81c75fde30ed02bfa943f&a2=425de1b3d2254163b5320d5b57be831801a022ab7323469b94e719af3deeb2eeed2cace5421c47588758f68b6b2d5ba2&app=r3j6a9f10bmssayw2thp&sid=csl-redteam-fib9gwac&id=%40clear.sale%2Fbehavior-analytics-fingerprint-sdk&v=1.0.255&h=127.0.0.1&sm=true",
+    "len": 70,
+    "head": "PNG\r\n\u001a\n\u0000\u0000\u0000\rIHDR\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\b\u0006\u0000\u0000\u0000\u001f\u0015Ä\u0000\u0000\u0000\rIDATxÚcdøÿ¿\u001e\u0000\u0005\u0002Â[\u001e*\u0000\u0000\u0000\u0000IEND®B`",
+    "setCookie": null
+  },
+  {
+    "t": "RES",
+    "status": 200,
+    "type": "image/png",
+    "u": "https://device.clearsale.com.br/p/fp2.png?aa=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ab=en-US&ac=24&ad=1&ae=900&af=1280&ag=900&ah=1280&ai=360&aj=1&ak=1&al=1&am=0&an=0&ao=unknown&ap=Linux%20x86_64&aq=unknown&ar=41b7928f85924a37c6340c17280b671a&as=9f5a952179468931c5f33d9c63e697de&at=0&ay=24700f9f1986800ab4fcc880530dd0ed&a3=12&m1=0&mb=0&mr=32&h1=c7796a4d461bb53a89ad89c280a68ac8&h6=997d578bfe7c39526994fe6568323d90&h4=8c5d31f5103dc3261c0ca2c2cf34ad78&l1=0&im=0&b2=1&b1=1&az=3275607191e9f618e33408456ff7b0fd&h7=33c990354bf5523cbd6fa839b8747d81&app=r3j6a9f10bmssayw2thp&sid=csl-redteam-fib9gwac&id=%40clear.sale%2Fbehavior-analytics-fingerprint-sdk&v=1.0.255&h=127.0.0.1",
+    "len": 70,
+    "head": "PNG\r\n\u001a\n\u0000\u0000\u0000\rIHDR\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\b\u0006\u0000\u0000\u0000\u001f\u0015Ä\u0000\u0000\u0000\rIDATxÚcdøÿ¿\u001e\u0000\u0005\u0002Â[\u001e*\u0000\u0000\u0000\u0000IEND®B`",
+    "setCookie": null
+  }
+]

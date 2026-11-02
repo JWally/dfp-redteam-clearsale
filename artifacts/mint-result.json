@@ -1,0 +1,33 @@
+{
+  "mode": "mint",
+  "session": "csl-mint-57bxnl4p",
+  "tampered": 0,
+  "sent": [
+    {
+      "url": "https://device.clearsale.com.br/p/fp2.png?aa=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ab=en-US&ac=24&ad=1&ae=900&af=1280&ag=900&ah=1280&ai=360&aj=1&ak=1&al=1&am=0&an=0&ao=unknown&ap=Linux%20x86_64&aq=unknown&ar=102cb426688247486da95efb0e0a281c&as=9f5a952179468931c5f33d9c63e697de&at=0&ay=24700f9f1986800ab4fcc880530dd0ed&a3=12&m1=0&mb=0&mr=32&h1=5cd1a0e49f5cc40faef99dcdc765db74&h6=997d578bfe7c39526994fe6568323d90&h4=c622e2961c38f3a5b5325de5dc9ff7ae&l1=0&im=0&b2=1&b1=1&az=3275607191e9f618e33408456ff7b0fd&h7=33c990354bf5523cbd6fa839b8747d81&app=r3j6a9f10bmssayw2thp&sid=csl-mint-57bxnl4p&id=%40clear.sale%2Fbehavior-analytics-fingerprint-sdk&v=1.0.255&h=127.0.0.1",
+      "orig": false
+    },
+    {
+      "url": "https://device.clearsale.com.br/p/fp1.png?bb=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&ba=ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff&a2=9145ead966634f1080deb102bb31711b13578a76c78f477581b5066cc4681eb8e8ba7ce476b84692b5eec9e1668c4078&app=r3j6a9f10bmssayw2thp&sid=csl-mint-57bxnl4p&id=%40clear.sale%2Fbehavior-analytics-fingerprint-sdk&v=1.0.255&h=127.0.0.1&sm=true",
+      "orig": false
+    }
+  ],
+  "respLog": [
+    {
+      "status": 200,
+      "url": "https://device.clearsale.com.br/p/ci.png"
+    },
+    {
+      "status": 200,
+      "url": "https://device.clearsale.com.br/p/fp2.png?aa=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHT"
+    },
+    {
+      "status": 200,
+      "url": "https://device.clearsale.com.br/p/fp1.png?bb=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    }
+  ],
+  "state": {
+    "udf_j_cookie": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "udf_l_storage": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  }
+}

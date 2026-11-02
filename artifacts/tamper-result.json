@@ -1,0 +1,33 @@
+{
+  "mode": "tamper",
+  "session": "csl-tamper-bxqgkrkt",
+  "tampered": 2,
+  "sent": [
+    {
+      "url": "https://device.clearsale.com.br/p/fp2.png?aa=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20HeadlessChrome/148.0.7778.96%20Safari/537.36&ab=xx-XX&ac=24&ad=1&ae=1024&af=768&ag=900&ah=1280&ai=360&aj=1&ak=1&al=1&am=0&an=0&ao=unknown&ap=Linux%20x86_64&aq=unknown&ar=102cb426688247486da95efb0e0a281c&as=9f5a952179468931c5f33d9c63e697de&at=0&ay=24700f9f1986800ab4fcc880530dd0ed&a3=12&m1=0&mb=0&mr=32&h1=5cd1a0e49f5cc40faef99dcdc765db74&h6=997d578bfe7c39526994fe6568323d90&h4=c622e2961c38f3a5b5325de5dc9ff7ae&l1=0&im=0&b2=1&b1=1&az=3275607191e9f618e33408456ff7b0fd&h7=33c990354bf5523cbd6fa839b8747d81&app=r3j6a9f10bmssayw2thp&sid=csl-tamper-bxqgkrkt&id=%40clear.sale%2Fbehavior-analytics-fingerprint-sdk&v=1.0.255&h=127.0.0.1",
+      "orig": true
+    },
+    {
+      "url": "https://device.clearsale.com.br/p/fp1.png?bb=0eab73b13792f4dd6c2ea7993eb3e8d118fce99094eb7906b043900061686a6e040449e0a87809a298c83c08dd66af5b&ba=3403e22eb0f9ae19abc91c8909a9e3067ce38e246b1ec92b87d8b7f76c4fbabaf5967a99c16343755411ce36f9a5728b&a2=ea5c7a2086b74e2fa23eeeecef998e4d641ae4617f4040eb991b93e6da2f80dbe7950c716d0148daaa48ab7d366f70f3&app=r3j6a9f10bmssayw2thp&sid=csl-tamper-bxqgkrkt&id=%40clear.sale%2Fbehavior-analytics-fingerprint-sdk&v=1.0.255&h=127.0.0.1&sm=false",
+      "orig": true
+    }
+  ],
+  "respLog": [
+    {
+      "status": 200,
+      "url": "https://device.clearsale.com.br/p/ci.png"
+    },
+    {
+      "status": 200,
+      "url": "https://device.clearsale.com.br/p/fp2.png?aa=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHT"
+    },
+    {
+      "status": 200,
+      "url": "https://device.clearsale.com.br/p/fp1.png?bb=0eab73b13792f4dd6c2ea7993eb3e8d118fce99094eb7906b043900061686a6e0"
+    }
+  ],
+  "state": {
+    "udf_j_cookie": "3403e22eb0f9ae19abc91c8909a9e3067ce38e246b1ec92b87d8b7f76c4fbabaf5967a99c16343755411ce36f9a5728b",
+    "udf_l_storage": "0eab73b13792f4dd6c2ea7993eb3e8d118fce99094eb7906b043900061686a6e040449e0a87809a298c83c08dd66af5b"
+  }
+}
