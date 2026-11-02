@@ -77,3 +77,8 @@ pre-seeded `__udf_j=ff…ff` and `__udf_l=aa…aa`, and fp1.png shipped them
   `onload/onerror` probe; we mapped its source but didn't fully invert it.
 - Server-side scoring/decisioning was not assessed (ClearSale Total requires
   merchant credentials).
+
+## Live deployments (2026-11-02)
+
+Real merchant deployments found via public urlscan.io search + page fetches —
+see [`LIVE_DEPLOYMENTS_2026_11_02.md`](LIVE_DEPLOYMENTS_2026_11_02.md).
